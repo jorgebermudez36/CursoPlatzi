@@ -5,7 +5,7 @@
 
 .header{
     background-color: var(--blue-color);
-    box-shadow: 30px 10px 4px #4444dd;
+    box-shadow: 30px 10px 4px #1212a8;
     color: var(--white-color);
     padding: 10px;
     margin: 0;
@@ -24,6 +24,8 @@ html{
 body{
     font-family: 'roboto', sans-serif;
     font-size: 1.6rem;
+    font: cursive;
+    color: var(--white-color);
 }
 
 ul {
@@ -83,7 +85,7 @@ a {
 }
 
 .aternative--link{
-    color: var(--blue-color);
+    color: var(--red-color);
     display: block;
     text-align: center;
     margin-bottom: 20px;
