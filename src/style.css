@@ -82,10 +82,6 @@ a {
     background-color: var(--red-color);
 }
 
-.login--alternative{
-
-}
-
 .aternative--link{
     color: var(--blue-color);
     display: block;
