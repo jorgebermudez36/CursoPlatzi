@@ -10,7 +10,11 @@
     padding: 10px;
     margin: 0;
     padding: 0.5em 0.5em 0;
+    font-family:'Times New Roman', 'Segoe UI', 'Open Sans', 'Helvetica Neue';
+    font-size: 1.2em;
+    font-weight: bold;
 }
+
 *{
     padding: 0;
     margin: 0;
