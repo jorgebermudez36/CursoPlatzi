@@ -1,6 +1,12 @@
 :root{
     --red-color: rgb(209, 107, 193);
-    --blue-color: #0095f6;
+    --blue-color: #00f635;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
 }
 
 .header{
@@ -10,11 +16,6 @@
     padding: 10px;
     margin: 0;
     padding: 0.5em 0.5em 0;
-}
-*{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
 }
 
 html{
@@ -82,12 +83,8 @@ a {
     background-color: var(--red-color);
 }
 
-.login--alternative{
-
-}
-
 .aternative--link{
-    color: var(--blue-color);
+    color: var(--red-color);
     display: block;
     text-align: center;
     margin-bottom: 20px;
