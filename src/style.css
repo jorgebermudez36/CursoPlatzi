@@ -1,10 +1,6 @@
 :root{
     --red-color: rgb(209, 107, 193);
-<<<<<<< HEAD
-    --blue-color: #f67b00;
-=======
     --blue-color: #5200F6;
->>>>>>> db8c5ced9c1f5b22dc457181bc00a9a3caa88774
 }
 
 .header{
